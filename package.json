@@ -1,5 +1,7 @@
 {
     "name": "SummerRelax",
+    "publisher": "rhighs",
+    "repository": "https://github.com/rhighs/summer-relax",
     "displayName": "SummerRelax",
     "description": "Summer coding with no eye strain",
     "version": "0.0.1",
