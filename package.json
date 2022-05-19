@@ -1,0 +1,21 @@
+{
+    "name": "SummerRelax",
+    "displayName": "SummerRelax",
+    "description": "Summer coding with no eye strain",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SummerRelax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/summer-relax-color-theme.json"
+            }
+        ]
+    }
+}
