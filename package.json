@@ -1,9 +1,9 @@
 {
-    "name": "SummerRelax",
+    "name": "Darkened",
     "publisher": "rhighs",
-    "repository": "https://github.com/rhighs/summer-relax",
-    "displayName": "SummerRelax",
-    "description": "Summer coding with no eye strain",
+    "repository": "https://github.com/rhighs/darkened",
+    "displayName": "Darkened",
+    "description": "A colorscheme combining pitch black linght purple accents",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "SummerRelax",
+                "label": "Darkened",
                 "uiTheme": "vs-dark",
-                "path": "./themes/summer-relax-color-theme.json"
+                "path": "./themes/darkened-color-theme.json"
             }
         ]
     }
