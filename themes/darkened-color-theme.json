@@ -171,7 +171,7 @@
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#9dbee6"
+                "foreground": "#bec7d1"
             }
         },
         {
@@ -189,7 +189,7 @@
         {
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#9cda7c"
+                "foreground": "#bec7d1"
             }
         },
         {
@@ -232,13 +232,13 @@
         {
             "scope": ["storage.type", "storage.modifier"],
             "settings": {
-                "foreground": "#e39e74"
+                "foreground": "#b968fc"
             }
         },
         {
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#9cda7c"
+                "foreground": "#bec7d1"
             }
         }
     ]
